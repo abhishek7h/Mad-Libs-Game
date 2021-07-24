@@ -1,0 +1,13 @@
+superhero = input("Enter a superhero")
+food = input("Enter food")
+verb = input("Enter Verb")
+describe_character = input("Enter your mom's charecter")
+describe_character2 = input("Enter your dad's charecter")
+anything = input("Enter whatever you want")
+
+print ("I am " +superhero)
+print("I love " +food)
+print("I like " +verb)
+print("My mom is " +describe_character)
+print("My dad is " +describe_character2)
+print("I have " +anything)
